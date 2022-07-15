@@ -1,6 +1,7 @@
 Menu System for the QBCore Framework
 
-License
+𝐋𝐢𝐜𝐞𝐧𝐬𝐞
+
 QBCore Framework
 Copyright (C) 2021 Joshua Eger
 
